@@ -1,5 +1,5 @@
 ### HELLO!🌿
-Lawrence Chen as a Cloud Engineer is working at Start-Up with AWS Partner now.</br>
+Lawrence Chen is working at Start-Up with AWS Partner as a Cloud Engineer now .</br>
 Experienced in AWS cloud architecture development, good at the integration of edge and cloud systems, and the development of front-end website architecture.
 
 Specialties: </br>
