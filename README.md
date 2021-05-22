@@ -1,14 +1,6 @@
 ### HELLO!🌿
 Lawrence Chen is working at Start-Up with AWS Partner as a Cloud Engineer now .</br>
-Experienced in Cloud Architecture development, good at the integration of edge and cloud systems, and the development of front-end website architecture.
-
-Specialties: </br>
-•Linux-Ubuntu, Unix </br>
-•Cloud Computing- AWS </br>
-•Data visualization with Tableau, Python, R </br>
-•Web Design with JavaScript ES6, CSS3, HTML5, Jquery </br>
-•Backend-Design with PHP Laravel </br>
-•Others:C/ C++, AWS CDK with Typescript
+Experienced in Cloud Architecture development, good at the integration of edge and cloud systems, and the development of front-end website architectu
 
 
 
