@@ -8,7 +8,11 @@ Experienced in Cloud Architecture development, good at the integration of edge a
 
 <a href="https://www.youtube.com/channel/UCu3_-I9iLqMOLm04aJrtzVg?view_as=subscriber">
   <img align="left" alt="K.JDong | Youtube" width="25px" src="https://raw.githubusercontent.com/lawrencechen0921/lawrencechen0921/master/assets/youtube.svg" />
-</a>     
+</a>
+<a href="https://t.me/awslc">
+  <img align="left" alt="K.JDong | Telegram" width="25px" src="https://raw.githubusercontent.com/lawrencechen0921/lawrencechen0921/master/assets/telegram.svg" />
+</a>
+
 <br>
 
 ### Favorite Languages and Tools
