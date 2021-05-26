@@ -1,8 +1,8 @@
 ### HELLO!🌿
-Lawrence Chen is served as Azure Intructor at EcloudValley now, and ex Cloud Engineer at AWS Start-Up .</br>
-Experienced in Cloud Architecture development, good at the integration of edge and cloud systems, and the development of front-end website architectu
+Lawrence Chen is served as Azure Intructor at eCloudvalley now, and ex Cloud Engineer at AWS Start-Up .</br>
+Experienced in Cloud Architecture, good at the integration and migration of on-premise and edge devices to the Hybrid Cloud, and Backend with Laravel.
 
-
+Specialties: Advanced Networking, TCP/IP, API Design, Web app deployment with public cloud service and also have a concept with CI/CD.
 
 ### Contact Me📱
 
