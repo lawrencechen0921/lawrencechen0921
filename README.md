@@ -6,7 +6,7 @@ Experienced in Cloud Architecture development, good at the integration of edge a
 
 ### Contact Me📱
 
-<a href="https://www.youtube.com/channel/UCu3_-I9iLqMOLm04aJrtzVg?view_as=subscriber">
+<a href="https://www.youtube.com/c/AWSLC">
   <img align="left" alt="K.JDong | Youtube" width="25px" src="https://raw.githubusercontent.com/lawrencechen0921/lawrencechen0921/master/assets/youtube.svg" />
 </a>
 <a href="https://t.me/awslc">
