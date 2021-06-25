@@ -9,6 +9,9 @@ Specialties: Advanced Networking, TCP/IP, API Design, Web app deployment with pu
 <a href="https://www.youtube.com/c/AWSLC">
   <img align="left" alt="K.JDong | Youtube" width="25px" src="https://raw.githubusercontent.com/lawrencechen0921/lawrencechen0921/master/assets/youtube.svg" />
 </a>
+<a href="https://twitter.com/awslc0921">
+  <img align="left" alt="K.JDong | Twitter" width="25px" src="https://raw.githubusercontent.com/lawrencechen0921/lawrencechen0921/master/assets/twitter.svg" />
+</a>
 <a href="https://t.me/awslc">
   <img align="left" alt="K.JDong | Telegram" width="25px" src="https://raw.githubusercontent.com/lawrencechen0921/lawrencechen0921/master/assets/telegram.svg" />
 </a>
