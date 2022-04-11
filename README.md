@@ -1,8 +1,15 @@
 ### HELLO!🌿
-Lawrence Chen is served as Cloud Support Associate at Amazon Web Service.</br>
-Experienced in Cloud Architecture, good at the integration and migration of on-premise and edge devices to the Hybrid Cloud, and Backend with Laravel.
+Lawrence Chen is served as Cloud Support Associate - Deployment at Amazon Web Service.</br>
 
-Specialties: Advanced Networking, TCP/IP, API Design, Web app deployment with public cloud service and also have a concept with CI/CD.
+Focus on:
+* Amazon ECS
+* Amazon EKS
+* AWS Cloudformation
+* AWS CodeCommit
+* AWS CodeBuild
+* AWS CodeDeploy
+
+Specialties: TCP/IP, API Design, Web app deployment with public cloud service and also have a concept with CI/CD.
 
 ### Contact Me📱
 
