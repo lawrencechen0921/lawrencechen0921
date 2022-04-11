@@ -5,6 +5,7 @@ Focus on:
 * Amazon ECS
 * Amazon EKS
 * AWS Cloudformation
+* AWS CDK
 * AWS CodeCommit
 * AWS CodeBuild
 * AWS CodeDeploy
