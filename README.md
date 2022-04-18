@@ -1,5 +1,5 @@
-### HELLO! Amazonian !<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-Lawrence Chen is served as Cloud Support Associate - Deployment at Amazon Web Service.</br>
+### Welcome!<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+Hello Folks, Lawrence served as Cloud Support Associate - Deployment at Amazon Web Service Dublin!</br>
 
 Focus on:
 * Amazon ECS
@@ -10,7 +10,7 @@ Focus on:
 * AWS CodeBuild
 * AWS CodeDeploy
 
-Specialties: TCP/IP, API Design, Web app deployment with public cloud service and also have a concept with CI/CD.
+
 
 ### Contact Me📱
 
