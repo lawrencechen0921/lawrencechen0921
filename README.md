@@ -5,6 +5,10 @@ Focus on:
 * Amazon Direct Connect
 * Amazon VPN
 * Amazon ELB
+* Amazon Global Accelerator
+* Amazon Route53
+* Amazon WAF
+* Amazon CloudWatch
 * Amazon ECS
 * Amazon EKS
 * AWS Cloudformation
