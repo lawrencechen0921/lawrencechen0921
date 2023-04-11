@@ -1,5 +1,5 @@
 ### Welcome!<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-Hello Folks, Lawrence served as Cloud Support Associate at Amazon Web Service </br>
+Hello Folks, Lawrence served as Cloud Support Engineer at Amazon Web Service </br>
 
 Focus on:
 * Amazon Direct Connect
